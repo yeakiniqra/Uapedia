@@ -1,0 +1,222 @@
+{
+	"fields": {
+		"year": 2024,
+		"semesters": [
+			{
+				"name": "Fall 2023",
+				"start_date": "2023-08-01",
+				"end_date": "2023-12-31",
+				"registration": {
+					"start_date": "2023-12-31",
+					"end_date": "2024-01-09"
+				},
+				"advisors_meeting": {
+					"date": "2024-01-03"
+				},
+				"classes_start": {
+					"date": "2024-01-14"
+				},
+				"add_drop_deadline": {
+					"date": "2024-01-22",
+					"type": "Fall-2023"
+				},
+				"mid_semester_exam": {
+					"start_date": "2024-03-03",
+					"end_date": "2024-03-09"
+				},
+				"advisors_meeting_2": {
+					"date": "2024-03-25"
+				},
+				"advisors_meeting_3": {
+					"date": "2024-04-23"
+				},
+				"preparatory_leave": {
+					"start_date": "2024-05-12",
+					"end_date": "2024-05-18"
+				},
+				"final_exam": {
+					"start_date": "2024-05-19",
+					"end_date": "2024-06-01"
+				},
+				"oral_exam": {
+					"start_date": "2024-06-02",
+					"end_date": "2024-06-06",
+					"programs": [
+						"BA",
+						"ENG",
+						"Law & HR",
+						"PHARM"
+					]
+				},
+				"repeat_exam_registration": {
+					"start_date": "2024-06-24",
+					"end_date": "2024-06-27"
+				},
+				"repeat_exam": {
+					"start_date": "2024-06-28",
+					"end_date": "2024-07-02"
+				},
+				"registration_next_semester": {
+					"start_date": "2024-06-25",
+					"end_date": "2024-07-09"
+				},
+				"payment_deadlines": [
+					{
+						"type": "1st Installment (Registration Fee)",
+						"date": "2024-01-03"
+					},
+					{
+						"type": "2nd Installment",
+						"date": "2024-02-22"
+					},
+					{
+						"type": "3rd Installment",
+						"date": "2024-04-30"
+					}
+				]
+			},
+			{
+				"name": "Spring 2024",
+				"start_date": "2024-01-01",
+				"end_date": "2024-05-31",
+				"registration": {
+					"start_date": "2024-06-25",
+					"end_date": "2024-07-09"
+				},
+				"advisors_meeting": {
+					"date": "2024-07-03"
+				},
+				"classes_start": {
+					"date": "2024-07-14"
+				},
+				"add_drop_deadline": {
+					"date": "2024-07-22",
+					"type": "Spring-2024"
+				},
+				"mid_semester_exam": {
+					"start_date": "2024-09-01",
+					"end_date": "2024-09-07"
+				},
+				"advisors_meeting_2": {
+					"date": "2024-09-23"
+				},
+				"advisors_meeting_3": {
+					"date": "2024-10-07"
+				},
+				"preparatory_leave": {
+					"start_date": "2024-10-27",
+					"end_date": "2024-11-02"
+				},
+				"final_exam": {
+					"start_date": "2024-11-03",
+					"end_date": "2024-11-16"
+				},
+				"oral_exam": {
+					"start_date": "2024-11-17",
+					"end_date": "2024-11-21",
+					"programs": [
+						"BA",
+						"ENG",
+						"Law & HR",
+						"PHARM"
+					]
+				},
+				"repeat_exam_registration": {
+					"start_date": "2024-12-02",
+					"end_date": "2024-12-04"
+				},
+				"repeat_exam": {
+					"start_date": "2024-12-05",
+					"end_date": "2024-12-08"
+				},
+				"registration_next_semester": {
+					"start_date": "2024-12-22",
+					"end_date": "2025-01-07"
+				},
+				"payment_deadlines": [
+					{
+						"type": "1st Installment (Registration Fee)",
+						"date": "2024-07-07"
+					},
+					{
+						"type": "2nd Installment",
+						"date": "2024-08-22"
+					},
+					{
+						"type": "3rd Installment",
+						"date": "2024-10-22"
+					}
+				]
+			}
+		],
+		"holidays": [
+			{
+				"name": "Eid-ul-Adha",
+				"start_date": "2024-06-16",
+				"end_date": "2024-06-20"
+			},
+			{
+				"name": "Shab-e-Meraj",
+				"date": "2024-02-07"
+			},
+			{
+				"name": "Saraswati Puja",
+				"date": "2024-02-14"
+			},
+			{
+				"name": "International Mother Language Day",
+				"date": "2024-02-21"
+			},
+			{
+				"name": "Shab-e-Barat",
+				"date": "2024-02-26"
+			},
+			{
+				"name": "Birthday of the Father of the Nation",
+				"date": "2024-03-17"
+			},
+			{
+				"name": "National Independence Day",
+				"date": "2024-03-26"
+			},
+			{
+				"name": "Shab-e-Qadar and Eid-ul-Fitr",
+				"start_date": "2024-04-07",
+				"end_date": "2024-04-12"
+			},
+			{
+				"name": "Bangla New Year",
+				"date": "2024-04-14"
+			},
+			{
+				"name": "International Workers' Day",
+				"date": "2024-05-01"
+			},
+			{
+				"name": "Eid-e-Miladunnabi",
+				"date": "2024-09-16"
+			},
+			{
+				"name": "Durga Puja",
+				"start_date": "2024-10-12",
+				"end_date": "2024-10-13"
+			},
+			{
+				"name": "Ashura",
+				"date": "2024-07-17"
+			},
+			{
+				"name": "National Mourning Day",
+				"date": "2024-08-15"
+			},
+			{
+				"name": "Janmashtami", 
+				"date": "2024-08-26"
+			},
+			{
+				"name": "Christmas Day",
+				"date": "2024-12-25"
+			}
+		]
+	}
+}

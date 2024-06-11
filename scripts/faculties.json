@@ -1,0 +1,244 @@
+[
+  {
+    "id": "1",
+    "name": "Dr. Shah Murtaza Rashid Al Masud",
+    "designation": "Associate Professor",
+    "image": "/media/faculties/al_masud.jpeg",
+    "phone": "01405688649",
+    "email": "murtaza@uap-bd.edu"
+  },
+  { 
+    "id": "2",
+    "name": "Dr. Bilkis Jamal Ferdosi",
+    "designation": "Professor",
+    "image": "/media/faculties/1.png",
+    "phone": "01760242388",
+    "email": "bjferdosi@uap-bd.edu"
+  },
+  {
+    "id": "3",
+    "name": "Dr. Aloke Kumar Saha",
+    "designation": "Professor",
+    "image": "/media/faculties/15.png",
+    "phone": "01711465641",
+    "email": "aloke@uap-bd.edu"
+  },
+  {
+    "id": "4",
+    "name": "Dr. Nasima Begum",
+    "designation": "Associate Professor",
+    "image": "/media/faculties/18.png",
+    "phone": "01711500000",
+    "email": "nasima.cse@uap-bd.edu"
+  },
+  {
+    "id": "5",
+    "name": "Shaila Rahman",
+    "designation": "Assistant Professor",
+    "image": "/media/faculties/shaila.jpeg",
+    "phone": "01819818234",
+    "email": "shaila@uap-bd.edu"
+  },
+  {
+    "id": "6",
+    "name": "Shammi Akhtar",
+    "designation": "Assistant Professor",
+    "image": "/media/faculties/5.png",
+    "phone": "01713309903",
+    "email": "Shammi@uap-bd.edu"
+  },
+  {
+    "id": "7",
+    "name": "Md. Akhtaruzzaman Adnan",
+    "designation": "Assistant Professor",
+    "image": "/media/faculties/11.png",
+    "phone": "01711281379",
+    "email": "adnan.cse@uap-bd.edu"
+  },
+  {
+    "id": "8",
+    "name": "A S Zaforullah Momtaz",
+    "designation": "Assistant Professor",
+    "image": "/media/faculties/4.png",
+    "phone": "01723722788",
+    "email": "zaforullah@uap-bd.edu"
+  },
+  {
+    "id": "9",
+    "name": "Molla Rashied Hussein",
+    "designation": "Assistant Professor",
+    "image": "/media/faculties/9_EcyOjMM.png",
+    "phone": "01777401970",
+    "email": "mrh.cse@uap-bd.edu"
+  },
+  {
+    "id": "10",
+    "name": "Nadeem Ahmed",
+    "designation": "Assistant Professor",
+    "image": "/media/faculties/rsz_latest.jpg",
+    "phone": "+8801912092464",
+    "email": "nadeem@uap-bd.edu"
+  },
+  {
+    "id": "11",
+    "name": "Tanjina Helaly",
+    "designation": "Assistant Professor",
+    "image": "/media/faculties/3.png",
+    "phone": "01983792229",
+    "email": "tanjina@uap-bd.edu"
+  },
+  {
+    "id": "12",
+    "name": "Tahira Alam",
+    "designation": "Assistant Professor",
+    "image": "/media/faculties/Alam_photoJPG.png",
+    "phone": "01914876034",
+    "email": "tahira.cse@uap-bd.edu"
+  },
+  {
+    "id": "13",
+    "name": "Dr. Muhammad Towfiqur Rahman",
+    "designation": "Assistant Professor",
+    "image": "/media/faculties/Dr_Towfiq.jpg",
+    "phone": "+8801886922110",
+    "email": "towfiq@uap-bd.edu"
+  },
+  {
+    "id": "14",
+    "name": "Fahad Ahmed",
+    "designation": "Assistant Professor",
+    "image": "/media/faculties/Fahad.JPG",
+    "phone": "01737777912",
+    "email": "fahadahmed@uap-bd.edu"
+  },
+  {
+    "id": "15",
+    "name": "Md. Shahidul Islam",
+    "designation": "Assistant Professor",
+    "image": "/media/faculties/Md._Shahidul_Islam.jpg",
+    "phone": "01777086703",
+    "email": "shahid@uap-bd.edu"
+  },
+  {
+    "id": "16",
+    "name": "Nayeema Sultana",
+    "designation": "Lecturer",
+    "image": "/media/faculties/8.png",
+    "phone": "01723209558",
+    "email": "nayeema@uap-bd.edu"
+  },
+  {
+    "id": "17",
+    "name": "Md. Mahedi Hassan",
+    "designation": "Lecturer",
+    "image": "/media/faculties/IMG_7576.JPG",
+    "phone": "01521429026",
+    "email": "mahedi@uap-bd.edu"
+  },
+  {
+    "id": "18",
+    "name": "Baivab Das",
+    "designation": "Lecturer",
+    "image": "/media/faculties/Baivab_315x315.png",
+    "phone": "+8801963325240",
+    "email": "baivab@uap-bd.edu"
+  },
+  {
+    "id": "19",
+    "name": "Sk. Tanzir Mehedi",
+    "designation": "Lecturer",
+    "image": "/media/faculties/Tanzir_Mehedi.jpg",
+    "phone": "+8801521447020",
+    "email": "tanzirmehedi@uap-bd.edu"
+  },
+  {
+    "id": "20",
+    "name": "Durjoy Mistry",
+    "designation": "Lecturer",
+    "image": "/media/faculties/durjoy.png",
+    "phone": "01719588272",
+    "email": "durjoy@uap-bd.edu"
+  },
+  {
+    "id": "21",
+    "name": "Nuzhat Tabassum Progga",
+    "designation": "Lecturer",
+    "image": "/media/faculties/NuzhatProgga.jpg",
+    "phone": "01521115015",
+    "email": "progga@uap-bd.edu"
+  },
+  {
+    "id": "22",
+    "name": "Asma Mariam",
+    "designation": "Lecturer",
+    "image": "/media/faculties/Asma_Mariam_20YeZQb.jpg",
+    "phone": "+8801767564695",
+    "email": "asma@uap-bd.edu"
+  },
+  {
+    "id": "23",
+    "name": "Sumaiya Akhtar Mitu",
+    "designation": "Lecturer",
+    "image": "/media/faculties/Mitu_315x315.jpg",
+    "phone": "+8801950186718",
+    "email": "sumaiya@uap-bd.edu"
+  },
+  {
+    "id": "24",
+    "name": "Sabiha Tahsin Soha",
+    "designation": "Lecturer",
+    "image": "/media/faculties/Sabiha.jpg",
+    "phone": "+8801718941523",
+    "email": "soha@uap-bd.edu"
+  },
+ 
+  {
+    "id": "26",
+    "name": "Nakiba Nuren Rahman",
+    "designation": "Lecturer",
+    "image": "/media/faculties/Nakiba_1.jpg",
+    "phone": "+8801829866718",
+    "email": "nakiba@uap-bd.edu"
+
+  },
+  {
+    "id": "27",
+    "name": "Nipa Anjum",
+    "designation": "Lecturer",
+    "image": "/media/faculties/Nipa_Anjum_Web.jpg",
+    "phone": "01521260277",
+    "email": "nipa@uap-bd.edu"
+  },
+  {
+    "id": "28",
+    "name": "Musfequa Rahman",
+    "designation": "Lecturer",
+    "image": "/media/faculties/Musfequa-Rahman.jpg",
+    "phone": "01736578702",
+    "email": "musfequa@uap-bd.edu"
+  },
+  {
+    "id": "29",
+    "name": "Noor Mairukh Khan Arnob",
+    "designation": "Lecturer",
+    "image": "/media/faculties/Arnob.png",
+    "phone": "N/A",
+    "email": "arnob@uap-bd.edu"
+  },
+  {
+    "id": "30",
+    "name": "Sourav Saha",
+    "designation": "Lecturer",
+    "image": "/media/faculties/Sourav_Shaha.jpg",
+    "phone": "01521-569957",
+    "email": "sourav@uap-bd.edu"
+  },
+  {
+    "id": "31",
+    "name": "Fabliha Haque",
+    "designation": "Lecturer",
+    "image": "/media/faculties/Fabliha_Haque.jpg",
+    "phone": "01760021992",
+    "email": "fabliha@uap-bd.edu"
+  }
+]
